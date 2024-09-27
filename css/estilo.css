@@ -111,12 +111,9 @@ nav ul li ul.submenu li a {
 }
 
 .intro .boton {
-    display: flex;
-    justify-content: center;
+    margin: 0 auto;
     text-align: center;
     align-items: center;
-    width: 150px;
-    height: 40px;
     padding: 10px 20px;
     background-color: #004080;
     color: white;
@@ -124,6 +121,7 @@ nav ul li ul.submenu li a {
     border-radius: 5px;
     font-size: 1rem;
 }
+
 
 .intro span {
     display: block;
